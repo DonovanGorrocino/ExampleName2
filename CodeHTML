@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Examen Parcial</title>
+    <style> 
+
+</style>
+  </head>
+  <body>
+    <h1>Examen Parcial</h1>
+    <h2>Primera Parte</h2>
+    <p class="w"> <b>1)</b>   El problema que tratamos de solucionar tiene que ver con la falta de libros en la universidad que los alumnos necesitan comprar para sus clases. Muchas veces se acaban los libros en esta librería que se llama gonvill que está dentro de la universidad. El problema también es que en otras librerías gonvill afuera de la universidad estos libros tampoco están. Los alumnos necesitan estos libros para sus clases ya que la clase se basa en las lecturas y problemas que estos libros incluyen.</p> <br/>
+    <img src="http://sic.gob.mx/images/38982"><img> <br/>
+    <p class="e"><b>2)</b> Nuestra mayor motivación respecto al problema es que nosotros también hemos sufrido de este mismo problema. La mayoría de nuestros amigos de la universidad también han tenido experiencias similares. Soluciones que se han hecho es “el tianguis del libro”, en el cual alumnos que tienen libros que ya no usarán, los venden al tianguis para que sean revendidos a un precio más accesible. Esto hace que exista más oferta de libros que solo la de la librería en gonvill.</p><br/>
+    <img src="https://images3.content-hci.com/commimg/myhotcourses/blog/post/myhc_5586.jpg"><img><br/>
+     <p class="r"><b>3)</b> La primera parte a la metodología para proponer una solución a un problema en específico es la siguiente. Si este problema es específico y ya se sabe, entonces lo primero que se tiene que hacer es investigar sobre este problema. Cualquier recurso necesario para investigar es ventajoso. Recursos como la internet, encuestas y focus groups. Después que de investigar lo que creas necesario para el problema hay que hacer un prototipo/concepto que se basa en la investigación previa. Lo siguiente es un ciclo de feedback y actualizaciones. Tendrás que mostrarle a tu target demographic el prototipo o idea, escuchar y ver sus reacciones; y así actualizarse para hacer mejoras.</p><br/>
+   
+  <p class="t"><b>Auto-Evalucaiones</b><br/><b>Ricardo</b>: yo creo que tuve mucho campo de aprendizaje ya que yo no tenía conocimientos previos en HTML. Muchos de mis compañeros ya sabían HTML entonces fueron de ayuda para que pudiera seguir la clase de manera exitosa. Teniendo esto en cuenta, creo que pude haberme esforzado más, las herramientas que puso el profesor para ser enriquecer nuestros conocimientos en HTML los use solo al final del parcial.<br/>
+<b>Donovan</b>: En mi caso, creo que aprendí más cosas de las que yo esperaba aprender en un parcial, ahora tengo cierto conocimiento en HTML y aprendí cómo utilizar de una manera más eficiente la herramientas como bootstrap o foundation, creo que mi empeño en esta clase pudo haber sido mayor pero en general creo que mi desempeño fue satisfactorio</p>
+    <br/>
+    <h2>Segunda Parte</h2>
+     <p class="w"> <b>1)</b>  Nuestra audiencia del problema son los alumnos del Tecnológico de Monterrey, campus Guadalajara que necesitan de libros para sus clases, y estos libros no están disponibles en el inicio del ciclo escolar.</p> <br/>
+       <p class="e"><b>2)</b>Solucion no-tecnologica: Una solucion no tecnologica que podriamos desarrollar seria conseguir los productos, externamente, y venderlos directamente nosotros, ò, podríamos conseguir más personas y que estas mismas nos puedan ayudar, ya sea en conseguir los libros, o vendiendolos</p>
+      <p class="w"> <b>3)</b>  Nosotros creemos que nos merecemos una calificacion que ronda entre 85 a 90. Dado que nosotros no teniamos mucha experiancia con esta herramienta nueva. Creemos que a pesar de nuestra ignorancia entorno a HTML nos esforsamos y tuvimos relativamente un exito modesto.</p> 
+          <p class="t"> <b>Referencias</b>             Usamos codigo para la animacion https://developer.mozilla.org/es/docs/Web/CSS/CSS_Animations/Usando_animaciones_CSS
+   <br> usamos diferentes imagenes<br/>
+    http://sic.gob.mx/images/38982
+
+
+https://previews.123rf.com/images/dskdesign/dskdesign1205/dskdesign120500015/13549961-business-man-writing-concept-of-business-process-investigate-analyze-identify-design-develop-test-im-Stock-Photo.jpg
+</p> 
+    
+    
+    
+    
+    
+
+
+
+<!-- End your code here -->
+</body>
+</html>
